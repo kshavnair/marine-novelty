@@ -1,0 +1,22 @@
+species_tested,group,input_len,predicted_species,confidence,is_match,is_uncertain,is_novel,accession,status
+Delphinus delphis,in_panel,,,,,,,,fetch_error
+Thunnus albacares,in_panel,,,,,,,,fetch_error
+Salmo salar,in_panel,,,,,,,,fetch_error
+Octopus vulgaris,in_panel,,,,,,,,fetch_error
+Crassostrea gigas,in_panel,,,,,,,,fetch_error
+Delphinus capensis,near_relative,,,,,,,,fetch_error
+Stenella coeruleoalba,near_relative,,,,,,,,fetch_error
+Thunnus obesus,near_relative,,,,,,,,fetch_error
+Salmo trutta,near_relative,,,,,,,,fetch_error
+Enteroctopus dofleini,near_relative,,,,,,,,fetch_error
+Crassostrea virginica,near_relative,,,,,,,,fetch_error
+Gadus morhua,out_of_panel,,,,,,,,fetch_error
+Scomber scombrus,out_of_panel,,,,,,,,fetch_error
+Clupea harengus,out_of_panel,,,,,,,,fetch_error
+Merluccius merluccius,out_of_panel,,,,,,,,fetch_error
+Engraulis encrasicolus,out_of_panel,,,,,,,,fetch_error
+Sardina pilchardus,out_of_panel,,,,,,,,fetch_error
+Loligo vulgaris,out_of_panel,,,,,,,,fetch_error
+Sepia officinalis,out_of_panel,,,,,,,,fetch_error
+Mytilus galloprovincialis,out_of_panel,,,,,,,,fetch_error
+Pecten maximus,out_of_panel,,,,,,,,fetch_error

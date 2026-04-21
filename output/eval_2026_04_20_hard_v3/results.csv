@@ -1,0 +1,22 @@
+species_tested,group,input_len,predicted_species,confidence,is_match,is_uncertain,is_novel,accession,source,status
+Delphinus delphis,in_panel,756,Delphinus delphis,92.75,True,False,False,EF090639.1,fasta_fallback,tested
+Thunnus albacares,in_panel,596,Thunnus albacares,97.43,True,False,False,PX623998.1,fasta_fallback,tested
+Salmo salar,in_panel,16665,Putative novel / unrecognised species,0.0,False,False,True,NC_001960.1,fasta_fallback,tested
+Octopus vulgaris,in_panel,627,Octopus vulgaris,93.28,True,False,False,AB052253.1,fasta_fallback,tested
+Crassostrea gigas,in_panel,724,Crassostrea gigas,100.0,True,False,False,PV194973.1,fasta_fallback,tested
+Delphinus capensis,near_relative,16385,Putative novel / unrecognised species,0.0,False,False,True,NC_012061.1,fasta_fallback,tested
+Stenella coeruleoalba,near_relative,16384,Putative novel / unrecognised species,0.0,False,False,True,NC_012053.1,fasta_fallback,tested
+Thunnus obesus,near_relative,549,Thunnus albacares,98.81,True,False,False,PV828948.1,fasta_fallback,tested
+Salmo trutta,near_relative,450,Salmo salar,78.87,False,True,False,MK785003.1,fasta_fallback,tested
+Enteroctopus dofleini,near_relative,661,Putative novel / unrecognised species,66.36,False,False,True,AB191272.1,fasta_fallback,tested
+Crassostrea virginica,near_relative,649,Putative novel / unrecognised species,38.83,False,False,True,MH012230.1,fasta_fallback,tested
+Gadus morhua,out_of_panel,647,Putative novel / unrecognised species,60.37,False,False,True,PV541600.1,fasta_fallback,tested
+Scomber scombrus,out_of_panel,671,Putative novel / unrecognised species,66.58,False,False,True,PP998645.1,fasta_fallback,tested
+Clupea harengus,out_of_panel,662,Putative novel / unrecognised species,62.92,False,False,True,KC473899.1,fasta_fallback,tested
+Merluccius merluccius,out_of_panel,634,Putative novel / unrecognised species,59.71,False,False,True,PX048703.1,fasta_fallback,tested
+Engraulis encrasicolus,out_of_panel,557,Putative novel / unrecognised species,59.25,False,False,True,PX490565.1,fasta_fallback,tested
+Sardina pilchardus,out_of_panel,645,Putative novel / unrecognised species,58.93,False,False,True,PQ057766.1,fasta_fallback,tested
+Loligo vulgaris,out_of_panel,548,Putative novel / unrecognised species,63.78,False,False,True,PV023311.1,fasta_fallback,tested
+Sepia officinalis,out_of_panel,657,Putative novel / unrecognised species,58.26,False,False,True,AB193812.1,fasta_fallback,tested
+Mytilus galloprovincialis,out_of_panel,903,Putative novel / unrecognised species,37.03,False,False,True,AB076943.1,fasta_fallback,tested
+Pecten maximus,out_of_panel,661,Putative novel / unrecognised species,35.09,False,False,True,KC429102.1,fasta_fallback,tested

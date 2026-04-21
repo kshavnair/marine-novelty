@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-04-20T10:25:30.329242Z",
+  "in_panel_accuracy": 0.0,
+  "in_panel_macro_f1": 0.0,
+  "novelty_detection": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "accuracy": 0.0,
+    "confusion": {
+      "tp": 0,
+      "fp": 0,
+      "tn": 0,
+      "fn": 0
+    },
+    "evaluated_rows": 0
+  },
+  "overall_counts": {
+    "total_species": 21,
+    "tested": 0,
+    "predict_errors": 0,
+    "fetch_errors": 21,
+    "in_panel_total": 5,
+    "near_relative_total": 6,
+    "out_of_panel_total": 10
+  },
+  "fetch_failures": [
+    "Delphinus delphis",
+    "Thunnus albacares",
+    "Salmo salar",
+    "Octopus vulgaris",
+    "Crassostrea gigas",
+    "Delphinus capensis",
+    "Stenella coeruleoalba",
+    "Thunnus obesus",
+    "Salmo trutta",
+    "Enteroctopus dofleini",
+    "Crassostrea virginica",
+    "Gadus morhua",
+    "Scomber scombrus",
+    "Clupea harengus",
+    "Merluccius merluccius",
+    "Engraulis encrasicolus",
+    "Sardina pilchardus",
+    "Loligo vulgaris",
+    "Sepia officinalis",
+    "Mytilus galloprovincialis",
+    "Pecten maximus"
+  ]
+}

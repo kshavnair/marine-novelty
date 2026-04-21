@@ -1,0 +1,191 @@
+[
+  {
+    "species": "Delphinus delphis",
+    "group": "in_panel",
+    "esearch_ids_count": 8,
+    "first_error": "",
+    "fetch_path_used": "fasta",
+    "accession_or_id": "EF090639.1",
+    "sequence_len": 756
+  },
+  {
+    "species": "Thunnus albacares",
+    "group": "in_panel",
+    "esearch_ids_count": 8,
+    "first_error": "",
+    "fetch_path_used": "fasta",
+    "accession_or_id": "PX623998.1",
+    "sequence_len": 596
+  },
+  {
+    "species": "Salmo salar",
+    "group": "in_panel",
+    "esearch_ids_count": 8,
+    "first_error": "",
+    "fetch_path_used": "fasta",
+    "accession_or_id": "NC_001960.1",
+    "sequence_len": 16665
+  },
+  {
+    "species": "Octopus vulgaris",
+    "group": "in_panel",
+    "esearch_ids_count": 8,
+    "first_error": "",
+    "fetch_path_used": "fasta",
+    "accession_or_id": "AB052253.1",
+    "sequence_len": 627
+  },
+  {
+    "species": "Crassostrea gigas",
+    "group": "in_panel",
+    "esearch_ids_count": 8,
+    "first_error": "",
+    "fetch_path_used": "fasta",
+    "accession_or_id": "PV194973.1",
+    "sequence_len": 724
+  },
+  {
+    "species": "Delphinus capensis",
+    "group": "near_relative",
+    "esearch_ids_count": 8,
+    "first_error": "",
+    "fetch_path_used": "fasta",
+    "accession_or_id": "NC_012061.1",
+    "sequence_len": 16385
+  },
+  {
+    "species": "Stenella coeruleoalba",
+    "group": "near_relative",
+    "esearch_ids_count": 8,
+    "first_error": "",
+    "fetch_path_used": "fasta",
+    "accession_or_id": "NC_012053.1",
+    "sequence_len": 16384
+  },
+  {
+    "species": "Thunnus obesus",
+    "group": "near_relative",
+    "esearch_ids_count": 8,
+    "first_error": "",
+    "fetch_path_used": "fasta",
+    "accession_or_id": "PV828948.1",
+    "sequence_len": 549
+  },
+  {
+    "species": "Salmo trutta",
+    "group": "near_relative",
+    "esearch_ids_count": 8,
+    "first_error": "",
+    "fetch_path_used": "fasta",
+    "accession_or_id": "MK785003.1",
+    "sequence_len": 450
+  },
+  {
+    "species": "Enteroctopus dofleini",
+    "group": "near_relative",
+    "esearch_ids_count": 8,
+    "first_error": "",
+    "fetch_path_used": "fasta",
+    "accession_or_id": "AB191272.1",
+    "sequence_len": 661
+  },
+  {
+    "species": "Crassostrea virginica",
+    "group": "near_relative",
+    "esearch_ids_count": 8,
+    "first_error": "",
+    "fetch_path_used": "fasta",
+    "accession_or_id": "MH012230.1",
+    "sequence_len": 649
+  },
+  {
+    "species": "Gadus morhua",
+    "group": "out_of_panel",
+    "esearch_ids_count": 8,
+    "first_error": "",
+    "fetch_path_used": "fasta",
+    "accession_or_id": "PV541600.1",
+    "sequence_len": 647
+  },
+  {
+    "species": "Scomber scombrus",
+    "group": "out_of_panel",
+    "esearch_ids_count": 8,
+    "first_error": "",
+    "fetch_path_used": "fasta",
+    "accession_or_id": "PP998645.1",
+    "sequence_len": 671
+  },
+  {
+    "species": "Clupea harengus",
+    "group": "out_of_panel",
+    "esearch_ids_count": 8,
+    "first_error": "",
+    "fetch_path_used": "fasta",
+    "accession_or_id": "KC473899.1",
+    "sequence_len": 662
+  },
+  {
+    "species": "Merluccius merluccius",
+    "group": "out_of_panel",
+    "esearch_ids_count": 8,
+    "first_error": "",
+    "fetch_path_used": "fasta",
+    "accession_or_id": "PX048703.1",
+    "sequence_len": 634
+  },
+  {
+    "species": "Engraulis encrasicolus",
+    "group": "out_of_panel",
+    "esearch_ids_count": 8,
+    "first_error": "",
+    "fetch_path_used": "fasta",
+    "accession_or_id": "PX490565.1",
+    "sequence_len": 557
+  },
+  {
+    "species": "Sardina pilchardus",
+    "group": "out_of_panel",
+    "esearch_ids_count": 8,
+    "first_error": "",
+    "fetch_path_used": "fasta",
+    "accession_or_id": "PQ057766.1",
+    "sequence_len": 645
+  },
+  {
+    "species": "Loligo vulgaris",
+    "group": "out_of_panel",
+    "esearch_ids_count": 8,
+    "first_error": "",
+    "fetch_path_used": "fasta",
+    "accession_or_id": "PV023311.1",
+    "sequence_len": 548
+  },
+  {
+    "species": "Sepia officinalis",
+    "group": "out_of_panel",
+    "esearch_ids_count": 8,
+    "first_error": "",
+    "fetch_path_used": "fasta",
+    "accession_or_id": "AB193812.1",
+    "sequence_len": 657
+  },
+  {
+    "species": "Mytilus galloprovincialis",
+    "group": "out_of_panel",
+    "esearch_ids_count": 8,
+    "first_error": "",
+    "fetch_path_used": "fasta",
+    "accession_or_id": "AB076943.1",
+    "sequence_len": 903
+  },
+  {
+    "species": "Pecten maximus",
+    "group": "out_of_panel",
+    "esearch_ids_count": 4,
+    "first_error": "",
+    "fetch_path_used": "fasta",
+    "accession_or_id": "KC429102.1",
+    "sequence_len": 661
+  }
+]

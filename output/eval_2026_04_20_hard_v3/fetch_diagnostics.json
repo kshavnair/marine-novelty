@@ -1,0 +1,565 @@
+[
+  {
+    "species": "Delphinus delphis",
+    "group": "in_panel",
+    "esearch_ids": [
+      "126467985",
+      "126467983",
+      "2784311518",
+      "2784311511",
+      "2575036180",
+      "2575036174",
+      "2575036142",
+      "2575036092"
+    ],
+    "attempts": [
+      {
+        "id": "126467985",
+        "accession": "EF090639.1",
+        "source": "fasta_fallback",
+        "seq_len": 756
+      }
+    ],
+    "selected_id": "126467985",
+    "selected_accession": "EF090639.1",
+    "selected_source": "fasta_fallback",
+    "selected_len": 756,
+    "status": "tested"
+  },
+  {
+    "species": "Thunnus albacares",
+    "group": "in_panel",
+    "esearch_ids": [
+      "3118806055",
+      "3118806053",
+      "3118806051",
+      "3118806049",
+      "3118806047",
+      "3118806045",
+      "3118806043",
+      "3118806041"
+    ],
+    "attempts": [
+      {
+        "id": "3118806055",
+        "accession": "PX623998.1",
+        "source": "fasta_fallback",
+        "seq_len": 596
+      }
+    ],
+    "selected_id": "3118806055",
+    "selected_accession": "PX623998.1",
+    "selected_source": "fasta_fallback",
+    "selected_len": 596,
+    "status": "tested"
+  },
+  {
+    "species": "Salmo salar",
+    "group": "in_panel",
+    "esearch_ids": [
+      "5835624",
+      "2961957440",
+      "2961957438",
+      "2961957436",
+      "2592806948",
+      "2592806938",
+      "2592806936",
+      "2592806934"
+    ],
+    "attempts": [
+      {
+        "id": "5835624",
+        "accession": "NC_001960.1",
+        "source": "fasta_fallback",
+        "seq_len": 16665
+      }
+    ],
+    "selected_id": "5835624",
+    "selected_accession": "NC_001960.1",
+    "selected_source": "fasta_fallback",
+    "selected_len": 16665,
+    "status": "tested"
+  },
+  {
+    "species": "Octopus vulgaris",
+    "group": "in_panel",
+    "esearch_ids": [
+      "11611627",
+      "2805548698",
+      "2805548696",
+      "2805548694",
+      "2805548692",
+      "2805548690",
+      "2805548688",
+      "2805548686"
+    ],
+    "attempts": [
+      {
+        "id": "11611627",
+        "accession": "AB052253.1",
+        "source": "fasta_fallback",
+        "seq_len": 627
+      }
+    ],
+    "selected_id": "11611627",
+    "selected_accession": "AB052253.1",
+    "selected_source": "fasta_fallback",
+    "selected_len": 627,
+    "status": "tested"
+  },
+  {
+    "species": "Crassostrea gigas",
+    "group": "in_panel",
+    "esearch_ids": [
+      "2918271329",
+      "2918271327",
+      "2918271325",
+      "2918271323",
+      "2918271321",
+      "2918271319",
+      "2918271317",
+      "2918271315"
+    ],
+    "attempts": [
+      {
+        "id": "2918271329",
+        "accession": "PV194973.1",
+        "source": "fasta_fallback",
+        "seq_len": 724
+      }
+    ],
+    "selected_id": "2918271329",
+    "selected_accession": "PV194973.1",
+    "selected_source": "fasta_fallback",
+    "selected_len": 724,
+    "status": "tested"
+  },
+  {
+    "species": "Delphinus capensis",
+    "group": "near_relative",
+    "esearch_ids": [
+      "222839860",
+      "170026983",
+      "186972598",
+      "186972596",
+      "186972594",
+      "186972592",
+      "186972588",
+      "186972586"
+    ],
+    "attempts": [
+      {
+        "id": "222839860",
+        "accession": "NC_012061.1",
+        "source": "fasta_fallback",
+        "seq_len": 16385
+      }
+    ],
+    "selected_id": "222839860",
+    "selected_accession": "NC_012061.1",
+    "selected_source": "fasta_fallback",
+    "selected_len": 16385,
+    "status": "tested"
+  },
+  {
+    "species": "Stenella coeruleoalba",
+    "group": "near_relative",
+    "esearch_ids": [
+      "222838742",
+      "126467995",
+      "126467993",
+      "126467991",
+      "126467989",
+      "126467987",
+      "2575036136",
+      "2575036108"
+    ],
+    "attempts": [
+      {
+        "id": "222838742",
+        "accession": "NC_012053.1",
+        "source": "fasta_fallback",
+        "seq_len": 16384
+      }
+    ],
+    "selected_id": "222838742",
+    "selected_accession": "NC_012053.1",
+    "selected_source": "fasta_fallback",
+    "selected_len": 16384,
+    "status": "tested"
+  },
+  {
+    "species": "Thunnus obesus",
+    "group": "near_relative",
+    "esearch_ids": [
+      "3004672740",
+      "3004672638",
+      "3125481115",
+      "2927316537",
+      "2927316523",
+      "2874187743",
+      "2874187741",
+      "2874186780"
+    ],
+    "attempts": [
+      {
+        "id": "3004672740",
+        "accession": "PV828948.1",
+        "source": "fasta_fallback",
+        "seq_len": 549
+      }
+    ],
+    "selected_id": "3004672740",
+    "selected_accession": "PV828948.1",
+    "selected_source": "fasta_fallback",
+    "selected_len": 549,
+    "status": "tested"
+  },
+  {
+    "species": "Salmo trutta",
+    "group": "near_relative",
+    "esearch_ids": [
+      "1772529610",
+      "1772529608",
+      "1772529606",
+      "1772529604",
+      "2662342323",
+      "2662342321",
+      "951647213",
+      "951647210"
+    ],
+    "attempts": [
+      {
+        "id": "1772529610",
+        "accession": "MK785003.1",
+        "source": "fasta_fallback",
+        "seq_len": 450
+      }
+    ],
+    "selected_id": "1772529610",
+    "selected_accession": "MK785003.1",
+    "selected_source": "fasta_fallback",
+    "selected_len": 450,
+    "status": "tested"
+  },
+  {
+    "species": "Enteroctopus dofleini",
+    "group": "near_relative",
+    "esearch_ids": [
+      "62084159",
+      "2564977659",
+      "1411041936",
+      "226088488",
+      "2512243131",
+      "2055417786",
+      "1951309145",
+      "953790698"
+    ],
+    "attempts": [
+      {
+        "id": "62084159",
+        "accession": "AB191272.1",
+        "source": "fasta_fallback",
+        "seq_len": 661
+      }
+    ],
+    "selected_id": "62084159",
+    "selected_accession": "AB191272.1",
+    "selected_source": "fasta_fallback",
+    "selected_len": 661,
+    "status": "tested"
+  },
+  {
+    "species": "Crassostrea virginica",
+    "group": "near_relative",
+    "esearch_ids": [
+      "1376009463",
+      "1783310279",
+      "1783310276",
+      "1783310273",
+      "1783310270",
+      "1783310267",
+      "1783310264",
+      "1783310261"
+    ],
+    "attempts": [
+      {
+        "id": "1376009463",
+        "accession": "MH012230.1",
+        "source": "fasta_fallback",
+        "seq_len": 649
+      }
+    ],
+    "selected_id": "1376009463",
+    "selected_accession": "MH012230.1",
+    "selected_source": "fasta_fallback",
+    "selected_len": 649,
+    "status": "tested"
+  },
+  {
+    "species": "Gadus morhua",
+    "group": "out_of_panel",
+    "esearch_ids": [
+      "2957985469",
+      "2955806151",
+      "2955806149",
+      "2955806147",
+      "2955806145",
+      "2955806143",
+      "2955806141",
+      "2955806139"
+    ],
+    "attempts": [
+      {
+        "id": "2957985469",
+        "accession": "PV541600.1",
+        "source": "fasta_fallback",
+        "seq_len": 647
+      }
+    ],
+    "selected_id": "2957985469",
+    "selected_accession": "PV541600.1",
+    "selected_source": "fasta_fallback",
+    "selected_len": 647,
+    "status": "tested"
+  },
+  {
+    "species": "Scomber scombrus",
+    "group": "out_of_panel",
+    "esearch_ids": [
+      "2755783533",
+      "2755783531",
+      "2755783529",
+      "2755783527",
+      "2755783525",
+      "2755783523",
+      "2755783521",
+      "2755783519"
+    ],
+    "attempts": [
+      {
+        "id": "2755783533",
+        "accession": "PP998645.1",
+        "source": "fasta_fallback",
+        "seq_len": 671
+      }
+    ],
+    "selected_id": "2755783533",
+    "selected_accession": "PP998645.1",
+    "selected_source": "fasta_fallback",
+    "selected_len": 671,
+    "status": "tested"
+  },
+  {
+    "species": "Clupea harengus",
+    "group": "out_of_panel",
+    "esearch_ids": [
+      "443498264",
+      "3053320641",
+      "148922530",
+      "1799624616",
+      "426260619",
+      "426260605",
+      "426260591",
+      "426260577"
+    ],
+    "attempts": [
+      {
+        "id": "443498264",
+        "accession": "KC473899.1",
+        "source": "fasta_fallback",
+        "seq_len": 662
+      }
+    ],
+    "selected_id": "443498264",
+    "selected_accession": "KC473899.1",
+    "selected_source": "fasta_fallback",
+    "selected_len": 662,
+    "status": "tested"
+  },
+  {
+    "species": "Merluccius merluccius",
+    "group": "out_of_panel",
+    "esearch_ids": [
+      "3033664332",
+      "3033664330",
+      "3033664328",
+      "3033664326",
+      "3033664324",
+      "2507751966",
+      "2507751964",
+      "2507751962"
+    ],
+    "attempts": [
+      {
+        "id": "3033664332",
+        "accession": "PX048703.1",
+        "source": "fasta_fallback",
+        "seq_len": 634
+      }
+    ],
+    "selected_id": "3033664332",
+    "selected_accession": "PX048703.1",
+    "selected_source": "fasta_fallback",
+    "selected_len": 634,
+    "status": "tested"
+  },
+  {
+    "species": "Engraulis encrasicolus",
+    "group": "out_of_panel",
+    "esearch_ids": [
+      "3101869895",
+      "3101826844",
+      "3101705790",
+      "2774648976",
+      "2757579702",
+      "2757579699",
+      "2757579694",
+      "2757579690"
+    ],
+    "attempts": [
+      {
+        "id": "3101869895",
+        "accession": "PX490565.1",
+        "source": "fasta_fallback",
+        "seq_len": 557
+      }
+    ],
+    "selected_id": "3101869895",
+    "selected_accession": "PX490565.1",
+    "selected_source": "fasta_fallback",
+    "selected_len": 557,
+    "status": "tested"
+  },
+  {
+    "species": "Sardina pilchardus",
+    "group": "out_of_panel",
+    "esearch_ids": [
+      "2774658500",
+      "2796944550",
+      "2796944548",
+      "2796944546",
+      "2796944544",
+      "2796944542",
+      "2796944540",
+      "2796944538"
+    ],
+    "attempts": [
+      {
+        "id": "2774658500",
+        "accession": "PQ057766.1",
+        "source": "fasta_fallback",
+        "seq_len": 645
+      }
+    ],
+    "selected_id": "2774658500",
+    "selected_accession": "PQ057766.1",
+    "selected_source": "fasta_fallback",
+    "selected_len": 645,
+    "status": "tested"
+  },
+  {
+    "species": "Loligo vulgaris",
+    "group": "out_of_panel",
+    "esearch_ids": [
+      "2895020185",
+      "2895020183",
+      "2895020181",
+      "2895020179",
+      "2895020177",
+      "2895020175",
+      "2895020173",
+      "2895020171"
+    ],
+    "attempts": [
+      {
+        "id": "2895020185",
+        "accession": "PV023311.1",
+        "source": "fasta_fallback",
+        "seq_len": 548
+      }
+    ],
+    "selected_id": "2895020185",
+    "selected_accession": "PV023311.1",
+    "selected_source": "fasta_fallback",
+    "selected_len": 548,
+    "status": "tested"
+  },
+  {
+    "species": "Sepia officinalis",
+    "group": "out_of_panel",
+    "esearch_ids": [
+      "62909950",
+      "3264076573",
+      "2518681671",
+      "2620321038",
+      "2620321036",
+      "2620320994",
+      "2620320992",
+      "2620320990"
+    ],
+    "attempts": [
+      {
+        "id": "62909950",
+        "accession": "AB193812.1",
+        "source": "fasta_fallback",
+        "seq_len": 657
+      }
+    ],
+    "selected_id": "62909950",
+    "selected_accession": "AB193812.1",
+    "selected_source": "fasta_fallback",
+    "selected_len": 657,
+    "status": "tested"
+  },
+  {
+    "species": "Mytilus galloprovincialis",
+    "group": "out_of_panel",
+    "esearch_ids": [
+      "18307657",
+      "2897885959",
+      "2897885957",
+      "2897885954",
+      "2897885952",
+      "2897885950",
+      "2897885948",
+      "2897885946"
+    ],
+    "attempts": [
+      {
+        "id": "18307657",
+        "accession": "AB076943.1",
+        "source": "fasta_fallback",
+        "seq_len": 903
+      }
+    ],
+    "selected_id": "18307657",
+    "selected_accession": "AB076943.1",
+    "selected_source": "fasta_fallback",
+    "selected_len": 903,
+    "status": "tested"
+  },
+  {
+    "species": "Pecten maximus",
+    "group": "out_of_panel",
+    "esearch_ids": [
+      "557883851",
+      "814935636",
+      "166362018",
+      "1580767"
+    ],
+    "attempts": [
+      {
+        "id": "557883851",
+        "accession": "KC429102.1",
+        "source": "fasta_fallback",
+        "seq_len": 661
+      }
+    ],
+    "selected_id": "557883851",
+    "selected_accession": "KC429102.1",
+    "selected_source": "fasta_fallback",
+    "selected_len": 661,
+    "status": "tested"
+  }
+]

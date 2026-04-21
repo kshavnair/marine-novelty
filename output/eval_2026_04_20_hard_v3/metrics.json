@@ -1,0 +1,24 @@
+{
+  "timestamp": "2026-04-20T13:54:36.798319Z",
+  "in_panel_accuracy": 0.8,
+  "in_panel_macro_f1": 0.6666666666666666,
+  "novelty_detection": {
+    "precision": 0.9333333333333333,
+    "recall": 0.875,
+    "f1": 0.9032258064516129,
+    "accuracy": 0.8571428571428571,
+    "confusion": {
+      "tp": 14,
+      "fp": 1,
+      "tn": 4,
+      "fn": 2
+    },
+    "evaluated_rows": 21
+  },
+  "overall_counts": {
+    "total_species": 21,
+    "tested": 21,
+    "fetch_errors": 0,
+    "predict_errors": 0
+  }
+}

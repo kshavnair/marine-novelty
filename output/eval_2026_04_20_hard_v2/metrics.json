@@ -1,0 +1,28 @@
+{
+  "timestamp": "2026-04-20T10:47:56.377376Z",
+  "in_panel_accuracy": 0.8,
+  "in_panel_macro_f1": 0.6666666666666666,
+  "novelty_detection": {
+    "precision": 0.6666666666666666,
+    "recall": 0.125,
+    "f1": 0.21052631578947367,
+    "accuracy": 0.2857142857142857,
+    "confusion": {
+      "tp": 2,
+      "fp": 1,
+      "tn": 4,
+      "fn": 14
+    },
+    "evaluated_rows": 21
+  },
+  "overall_counts": {
+    "total_species": 21,
+    "tested": 21,
+    "predict_errors": 0,
+    "fetch_errors": 0,
+    "in_panel_total": 5,
+    "near_relative_total": 6,
+    "out_of_panel_total": 10
+  },
+  "fetch_failures": []
+}

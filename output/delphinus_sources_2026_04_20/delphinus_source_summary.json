@@ -1,0 +1,19 @@
+{
+  "total_rows": 12,
+  "tested_rows": 12,
+  "error_rows": 0,
+  "predicted_species_counts": {
+    "Delphinus delphis": 7,
+    "Putative novel / unrecognised species": 5
+  },
+  "tested_by_source_group": {
+    "uploaded_zip": 1,
+    "workspace_extract": 1,
+    "ncbi_accession": 3,
+    "ncbi_esearch": 6,
+    "model_reference": 1
+  },
+  "novel_count": 5,
+  "match_count": 7,
+  "uncertain_count": 0
+}
